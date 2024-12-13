@@ -37,27 +37,21 @@
   }
   
   .gallery-item:nth-child(1) {
-    background-color: aliceblue;
     transform: rotateY(0deg) translateZ(300px);
   }
   .gallery-item:nth-child(2) {
-    background-color: antiquewhite;
     transform: rotateY(60deg) translateZ(300px);
   }
   .gallery-item:nth-child(3) {
-    background-color: aqua;
     transform: rotateY(120deg) translateZ(300px);
   }
   .gallery-item:nth-child(4) {
-    background-color: aquamarine;
     transform: rotateY(180deg) translateZ(300px);
   }
   .gallery-item:nth-child(5) {
-    background-color: azure;
     transform: rotateY(240deg) translateZ(300px);
   }
   .gallery-item:nth-child(6) {
-    background-color: beige;
     transform: rotateY(300deg) translateZ(300px);
   }
   
